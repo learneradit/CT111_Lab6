@@ -1,5 +1,5 @@
 % CT111 Lab 6
-% Developer: Dr. Adit Shah
+% Name: Adit Shah
 % ID: 201901454
 
 %% QPSK Modem
